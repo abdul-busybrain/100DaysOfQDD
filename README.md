@@ -1,5 +1,5 @@
 -Intro
-I watched a Video How To Get Out of Tutorial Hell (Step by Step Guide) link: https://youtu.be/343EWZS9O88?si=pOLS2KcsEoBT6N7m by
+I watched a Video How To Get Out of Tutorial Hell (Step by Step Guide) link: https://youtu.be/343EWZS9O88?si=pOLS2KcsEoBT6N7m 
 And They are Trying to explain an Article https://nickjanetakis.com/blog/learning-a-new-web-framework-with-question-driven-development by @nickjanetakis
 
 -Declation
